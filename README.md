@@ -1,2 +1,2 @@
-# CPP_MemoryManagement_ChatBot
+# CPP MemoryManagement ChatBot
 Memory Mangment ChatBot
